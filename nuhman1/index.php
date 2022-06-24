@@ -511,7 +511,7 @@ include('include/header.php');
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2 text-center">
                         <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> Client,s Testimonial</h6>
-                        <h1 class="section-title">Client,S Feedback</h1>
+                        <h1 class="section-title">Client'S Feedback</h1>
                     </div>
                 </div>
             </div>
