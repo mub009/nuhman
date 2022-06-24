@@ -127,6 +127,16 @@ include('include/header.php');
     <!-- FEATURE START -->
     <div class="ltn__feature-area section-bg-1 bg-image pt-120 pb-90" data-bg="img/bg/31.jpg">
         <div class="container">
+                    <div class="ltn__breadcrumb-inner">
+                        
+                        <div class="ltn__breadcrumb-list">
+                            <ul>
+                                <li><a href="index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span> Home</a></li>
+                                <li>Service</li>
+                            </ul>
+                        </div>
+                      
+                    </div>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2 text-center">
@@ -144,7 +154,7 @@ include('include/header.php');
                         <div class="ltn__feature-info">
                             <h3><a href="service-details_UK.php">UK Architectural Services</a></h3>
                             <p>We provide complete drawings and design services for both residential and Commercial Buildings including Existing, proposed and..</p>
-                            <a class="ltn__service-btn ltn__service-btn-2" href="">Service Details <i class="flaticon-right-arrow"></i></a>
+                            <a class="ltn__service-btn ltn__service-btn-2" href="service-details_UK.php">Service Details <i class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
                 </div>
@@ -172,7 +182,7 @@ include('include/header.php');
                             <p>Convert and creates line quality parametric
                                  BIM product catalogues for designers. contractors and manufactures 
                                  based on c ustomized client..</p>
-                            <a class="ltn__service-btn ltn__service-btn-2" href="service-details_auto_cad.php">Service Details <i class="flaticon-right-arrow"></i></a>
+                            <a class="ltn__service-btn ltn__service-btn-2" href="service-details_BIM.php">Service Details <i class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
                 </div>                
@@ -198,7 +208,7 @@ include('include/header.php');
                         <div class="ltn__feature-info">
                             <h3><a href="service-details_auto_cad.php">Auto CAD Drafting</a></h3>
                             <p>We provide a high- quality cad drafting services for both architectural and structural sectors.</p><br>
-                            <a class="ltn__service-btn ltn__service-btn-2" href="">Service Details <i class="flaticon-right-arrow"></i></a>
+                            <a class="ltn__service-btn ltn__service-btn-2" href="service-details_auto_cad.php">Service Details <i class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
                 </div>
@@ -211,7 +221,7 @@ include('include/header.php');
                         <div class="ltn__feature-info">
                             <h3><a href="service-details_construction.php">Construction</a></h3>
                             <p>We provides a comprehensive solution for construction documentation services for both architectural and structural firms.</p>
-                            <a class="ltn__service-btn ltn__service-btn-2" href="">Service Details <i class="flaticon-right-arrow"></i></a>
+                            <a class="ltn__service-btn ltn__service-btn-2" href="service-details_construction.php">Service Details <i class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
                 </div>

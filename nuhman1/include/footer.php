@@ -76,11 +76,11 @@
                             <h4 class="footer-title">Services</h4>
                             <div class="footer-menu">
                                 <ul>
-                                    <li><a href="">UK Architectural Services</a></li>
-                                    <li><a href="">BIM services</a></li>
-                                    <li><a href="">3D Visualization</a></li>
-                                    <li><a href="">Auto CAD Drafting Services</a></li>
-                                    <li><a href="">Construction Documentation</a></li>
+                                    <li><a href="service-details_UK.php">UK Architectural Services</a></li>
+                                    <li><a href="service-details_BIM.php">BIM services</a></li>
+                                    <li><a href="service-details_3D.php">3D Visualization</a></li>
+                                    <li><a href="service-details_auto_cad.php">Auto CAD Drafting Services</a></li>
+                                    <li><a href="service-details_construction.php">Construction Documentation</a></li>
                                 </ul>
                             </div>
                         </div>
