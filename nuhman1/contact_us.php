@@ -3,7 +3,7 @@
     <div class="ltn__utilize-overlay"></div>
 
     <!-- BREADCRUMB AREA START -->
-    <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/14.jpg">
+    <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/breadcrumb.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -123,36 +123,36 @@
     <div class="ltn__brand-logo-area ltn__brand-logo-1 before-bg-bottom">
         <div class="container">
             <div class="row ltn__brand-logo-active ltn__secondary-bg ltn__border-radius pt-30 pb-20">
-                <div class="col-lg-12">
+                <!-- <div class="col-lg-12">
                     <div class="ltn__brand-logo-item">
                         <img src="img/brand-logo/b11.png" alt="Brand Logo">
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-12">
                     <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/b12.png" alt="Brand Logo">
+                        <img src="img/brand-logo/cus1.jpg" alt="Brand Logo">
                     </div>
                 </div>
                 <div class="col-lg-12">
+                    <div class="ltn__brand-logo-item">
+                        <img src="img/brand-logo/cus2.jpg" alt="Brand Logo">
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="ltn__brand-logo-item">
+                        <img src="img/brand-logo/cus3.jpg" alt="Brand Logo">
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="ltn__brand-logo-item">
+                        <img src="img/brand-logo/cus4.jpg" alt="Brand Logo">
+                    </div>
+                </div>
+                <!-- <div class="col-lg-12">
                     <div class="ltn__brand-logo-item">
                         <img src="img/brand-logo/b13.png" alt="Brand Logo">
                     </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/b14.png" alt="Brand Logo">
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/b15.png" alt="Brand Logo">
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/b13.png" alt="Brand Logo">
-                    </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
