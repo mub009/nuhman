@@ -1,13 +1,13 @@
  <!-- FOOTER AREA START -->
- <footer class="ltn__footer-area  ">
+ <footer class="ltn__footer-area">
         <div class="footer-top-area  section-bg-2 plr--5">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-xl-3 col-md-6 col-sm-6 col-12">
+                    <div class="col-xl-4 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-about-widget">
                             <div class="footer-logo">
                                 <div class="site-logo">
-                                    <img src="img/logo-2.png" alt="Logo">
+                                    <img src="img/footer_logo.png" alt="Logo">
                                 </div>
                             </div>
                             <h4 class="footer-title"></h4>
@@ -25,7 +25,7 @@
                     </div>
 
 
-                    <div class="col-xl-3 col-md-6 col-sm-6 col-12">
+                    <div class="col-xl-4 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-menu-widget clearfix">
                             <h4 class="footer-title">Location</h4>
                             <div class="footer-address">
@@ -35,7 +35,7 @@
                                             <i class="icon-placeholder"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p>Ernakulum, Kerala, India</p>
+                                            <p>Kerala, India</p>
                                         </div>
                                     </li>
                                     <li>
@@ -43,7 +43,8 @@
                                             <i class="icon-call"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p><a href="tel:+0123-456789">+91 0000000000</a></p>
+                                            <p><a href="tel:+91-9562034979">+91 9562034979</a></p>
+                                            <p><a href="tel:+91-8590963833">+91 8590963833</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -59,19 +60,20 @@
                         </div>
                     </div>
 
-                    <div class="col-xl-3 col-md-6 col-sm-6 col-12">
+                    <div class="col-xl-4 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-menu-widget clearfix">
-                            <h4 class="footer-title">Company</h4>
+                            <h4 class="footer-title">Quick links</h4>
                             <div class="footer-menu">
                                 <ul>
                                     <li><a href="about.php">About</a></li>
-                                    <li><a href="services.php">Services</a></li>
+                                    <li><a href="">Portfolio</a></li>
+                                    <li><a href="">Careers</a></li>
                                     <li><a href="contact.php">Contact us</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6 col-sm-6 col-12">
+                    <!-- <div class="col-xl-3 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-menu-widget clearfix">
                             <h4 class="footer-title">Services</h4>
                             <div class="footer-menu">
@@ -84,7 +86,7 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- <div class="col-xl-2 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-menu-widget clearfix">
                             <h4 class="footer-title">Customer Care</h4>
@@ -124,7 +126,7 @@
                 <div class="row">
                     <div class="col-md-6 col-12">
                         <div class="ltn__copyright-design clearfix">
-                            <p>All Rights Reserved @ BIM Mark<span class="current-year"></span></p>
+                            <p>All Rights Reserved @ BIM Mark <span class="current-year"></span></p>
                         </div>
                     </div>
                     <div class="col-md-6 col-12 align-self-center">
@@ -357,6 +359,7 @@
     <script src="js/plugins.js"></script>
     <!-- Main JS -->
     <script src="js/main.js"></script>
+    
   
 </body>
 </html>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Spero - Construction</title>
+    <title>BIM Mark</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- Responsive css -->
     <link rel="stylesheet" href="css/responsive.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 </head>
 
 <body>
@@ -41,7 +42,7 @@
                         <div class="ltn__top-bar-menu">
                             <ul>
                                 <li><a href="bimmarkeng@gmail.com?Subject=Flower%20greetings%20to%20you"><i class="icon-mail"></i> bimmarkeng@gmail.com</a></li>
-                                <li><a href=""><i class="icon-placeholder"></i> Ernakulum, Kerala, India</a></li>
+                                <!-- <li><a href=""><i class="icon-placeholder"></i> Ernakulum, Kerala, India</a></li> -->
                             </ul>
                         </div>
                     </div>
@@ -51,7 +52,7 @@
                                 <ul>
                                     <li>
                                         <!-- ltn__language-menu -->
-                                        <div class="ltn__drop-menu ltn__currency-menu ltn__language-menu">
+                                        <!-- <div class="ltn__drop-menu ltn__currency-menu ltn__language-menu">
                                             <ul>
                                                 <li><a href="#" class="dropdown-toggle"><span class="active-currency">English</span></a>
                                                     <ul>
@@ -64,7 +65,7 @@
                                                     </ul>
                                                 </li>
                                             </ul>
-                                        </div>
+                                        </div> -->
                                     </li>
                                     <li>
                                         <!-- ltn__social-media -->
@@ -116,8 +117,8 @@
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About</a></li>
                                         <li><a href="services.php">Services</a></li>
-                                        <!-- <li><a href="projects.php">Projects</a></li>
-                                        <li><a href="career.php">Career</a></li> -->
+                                        <li><a href="">Portfolio</a></li>
+                                        <li><a href="">Career</a></li>
                                         <li><a href="contact_us.php">Contact us</a></li>
                                       
                                     </ul>
