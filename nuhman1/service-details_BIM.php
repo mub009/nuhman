@@ -1,7 +1,7 @@
 <?php include('include/header.php'); ?>
 
     <!-- BREADCRUMB AREA START -->
-    <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/breadcrumb.jpg">
+    <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/breadcrumb1.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -39,9 +39,9 @@
                         <div class="ltn__blog-img">
                             <img src="img/service/21.jpg" alt="Image">
                         </div>
-                        <p> <span class="ltn__first-letter">O</span>Our outsourcing services are a great partner for any construction company mainly looking for structural and Architectural BIM services. Our team operates with a clear motive to provide our clients with a competitive advantage by minimizing their improvement in customer service, minimizing their costs, and maximizing their overall efficiency. Our mission is to provide the best quality output in a given time with 100% customer satisfaction.  </p>
+                        <p> Our outsourcing services are a great partner for any construction company mainly looking for structural and Architectural BIM services. Our team operates with a clear motive to provide our clients with a competitive advantage by minimizing their improvement in customer service, minimizing their costs, and maximizing their overall efficiency. Our mission is to provide the best quality output in a given time with 100% customer satisfaction.  </p>
                         <p>Our expert and skilled BIM engineers constantly push the boundaries to provide our clients with truly unique and market-leading structural and Architectural BIM services. Our services are reliable, precise, and very detailed, which helps in decision-making. Our team creates accurate 3D models that preview what the final building design will look like from an architectural and structural perspective.</p>
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col-lg-6">
                                 <img src="img/service/31.jpg" alt="image">
                                 <label>Image caption here.</label>
@@ -49,17 +49,8 @@
                             <div class="col-lg-6">
                                 <img src="img/service/32.jpg" alt="image">
                             </div>
-                        </div>
-                        
-                        <p></p>
-                        <div class="ltn__service-list-menu text-uppercase mt-50 d-none">
-                            <ul>
-                                <li><i class="fas fa-car"></i> Front Brakes Repair <span class="service-price">$225.95 <span>Plus Parts</span></span> </li>
-                                <li><i class="fas fa-life-ring"></i> Rear Brakes Repair <span class="service-price">$225.95 <span>Plus Parts</span></span> </li>
-                                <li><i class="fas fa-cog"></i> Axle <span class="service-price">$225.95 <span>Plus Parts</span></span> </li>
-                                <li><i class="fas fa-car"></i> Starters / Alternators <span class="service-price">$225.95 <span>Plus Parts</span></span> </li>
-                            </ul>
-                        </div>
+                        </div> -->
+                     
 
                     </div>
                 </div>
@@ -151,41 +142,6 @@
     <!-- PAGE DETAILS AREA END -->
 
     <!-- BRAND LOGO AREA START -->
-    <div class="ltn__brand-logo-area ltn__brand-logo-1 before-bg-bottom">
-        <div class="container">
-            <div class="row ltn__brand-logo-active ltn__secondary-bg ltn__border-radius pt-30 pb-20">
-                <!-- <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/b11.png" alt="Brand Logo">
-                    </div>
-                </div> -->
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/cus1.jpg" alt="Brand Logo">
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/cus2.jpg" alt="Brand Logo">
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/cus3.jpg" alt="Brand Logo">
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/cus4.jpg" alt="Brand Logo">
-                    </div>
-                </div>
-                <!-- <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/b13.png" alt="Brand Logo">
-                    </div>
-                </div> -->
-            </div>
-        </div>
-    </div>
+   
     <!-- BRAND LOGO AREA END -->
     <?php include('include/footer.php'); ?>

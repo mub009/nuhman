@@ -27,7 +27,7 @@
     <!-- BREADCRUMB AREA END -->
 
         <!-- BREADCRUMB AREA START -->
-        <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/breadcrumb.jpg">
+        <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/breadcrumb1.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -60,17 +60,8 @@
                         <h1 class="page-title">About Us</h1>
                     </div>
             <div class="row">
-                <div class="col-lg-6 align-self-center">
-                    <div class="about-us-img-wrap about-img-left">
-                        <div class="ltn__video-img ltn__video-img-before-none ltn__animation-pulse2">
-                            <img src="img/others/18.png" alt="video popup bg image">
-                            <a class="ltn__video-icon-2 ltn__video-icon-2-border--- border-radius-no ltn__secondary-bg" href="https://www.youtube.com/embed/X7R-q9rsrtU?autoplay=1&showinfo=0"  data-rel="lightcase:myCollection">
-                                <i class="fa fa-play"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 align-self-center">
+                
+                <div class="col-lg-8 align-self-center">
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2">
                             <!-- <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span>   </h6> -->
@@ -86,11 +77,9 @@
                         
                     </div>
                 </div>
-            </div>
-        </div>  <br><br>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6  align-self-center">
+                <div class="col-lg-4">
+                 
+
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2">
                             <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> OUR MISSION</h6>
@@ -99,8 +88,7 @@
                             </p>
                         </div>            
                     </div>
-                </div>
-                <div class="col-lg-6  align-self-center">
+
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2">
                             <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> OUR VISION</h6>
@@ -109,22 +97,33 @@
                             </p>
                         </div>            
                     </div>
+
+                    <div class="about-us-info-wrap">
+                        <div class="section-title-area ltn__section-title-2">
+                            <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> OUR VALUES</h6>
+                            <h1 class="section-title"></h1>
+                            <ul>
+                                <li>Excellence</li>
+                                <li>Teamwork</li>
+                                <li>Transparency</li>
+                                <li>Collaborative</li>
+                                <li>Commitment</li>
+                                <li>Integrity</li>
+                            </ul>   
+                        </div>            
+                    </div>
                 </div>
             </div>
-        </div>
+        </div>  
+
         <div class="container">
             <div class="row">
                 <div class="col-lg-12  align-self-center">
                     <div class="about-us-info-wrap">
                         <div class="ltn__page-details-inner ltn__portfolio-details-inner">
-                            <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> Why BIMARK </h6>
-                            <p>We are better equipped to analyze and understand the effective use of available resources. 
-                                Through our adherence to a quality management system, we demonstrate our commitment to quality and excellence to our customers. 
-                                We focus on our customers and provide them with exactly what they need to succeed. </p>
-                            <p>We have collective experience of more than 200+ projects in the construction industry. The knowledge and skilled pick-up along the way helps us in utilizing in the project, helps in assisting our client better. 
-                                We pride ourselves on our quality standards and are constantly updating our products to stay on top. </p>
-                            <p>We also work on customers servers. We help clients define job responsibilities, provide methods for tracking performance, and measure set goals. Communication is one of the main keys to success. We strive to respond to your questions or inquiries within a maximum of one hour or 12 hours. 
-                                In addition, we ensure that the delivery of the project is carried out according to schedule. </p>
+                            <!-- <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> Why BIMARK </h6> -->
+                            <h1 class="page-title">Why BIMARK</h1>
+                            
                         </div>     
                         
                     </div>
@@ -133,7 +132,16 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-6  align-self-center">
+                <div class="col-lg-8  align-self-center">
+                <p>We are better equipped to analyze and understand the effective use of available resources. 
+                    Through our adherence to a quality management system, we demonstrate our commitment to quality and excellence to our customers. 
+                    We focus on our customers and provide them with exactly what they need to succeed. </p>
+                <p>We have collective experience of more than 200+ projects in the construction industry. The knowledge and skilled pick-up along the way helps us in utilizing in the project, helps in assisting our client better. 
+                    We pride ourselves on our quality standards and are constantly updating our products to stay on top. </p>
+                <p>We also work on customers servers. We help clients define job responsibilities, provide methods for tracking performance, and measure set goals. Communication is one of the main keys to success. We strive to respond to your questions or inquiries within a maximum of one hour or 12 hours. 
+                    In addition, we ensure that the delivery of the project is carried out according to schedule. </p>
+                </div>
+                <div class="col-lg-4  align-self-center">
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2">
                             <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> Uniqueness of BIMMAK </h6>
@@ -145,21 +153,6 @@
                                 <li>Teamwork</li>
                                 <li>Quality and Accuracy</li>
                             </ul>       
-                        </div>    
-                    </div>
-                </div>
-                <div class="col-lg-6  align-self-center">
-                    <div class="about-us-info-wrap">
-                        <div class="section-title-area ltn__section-title-2">
-                        <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> Our values </h6>
-                            <ul>
-                                <li>Excellence</li>
-                                <li>Teamwork</li>
-                                <li>Transparency</li>
-                                <li>Collaborative</li>
-                                <li>Commitment</li>
-                                <li>Integrity</li>
-                            </ul>      
                         </div>    
                     </div>
                 </div>

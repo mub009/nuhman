@@ -7,7 +7,7 @@
                         <div class="footer-widget footer-about-widget">
                             <div class="footer-logo">
                                 <div class="site-logo">
-                                    <img src="img/footer_logo.png" alt="Logo">
+                                    <img src="img/lg.jpg" alt="Logo">
                                 </div>
                             </div>
                             <h4 class="footer-title"></h4>

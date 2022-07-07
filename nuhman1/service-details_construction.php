@@ -1,7 +1,7 @@
 <?php include('include/header.php'); ?>
 
     <!-- BREADCRUMB AREA START -->
-    <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/breadcrumb.jpg">
+    <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/breadcrumb1.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -39,9 +39,9 @@
                         <div class="ltn__blog-img">
                             <img src="img/service/21.jpg" alt="Image">
                         </div>
-                        <p> <span class="ltn__first-letter">At</span>BIM Mark, we have a team of qualified and experienced engineers. Our architectural and structural engineers collaborate to develop integrated design models for all trades. We offer construction documentation for architectural design, structural engineering. We take up the responsibility of creating detailed drawings and examining the project's feasibility. Documentation is a key means for educating people who need an overview. Our team will apply knowledge of architectural design, construction detailing, construction procedures, building codes and building materials in the stage of documentation. We will also consult with clients to determine their requirements. </p>
+                        <p> At BIM Mark, we have a team of qualified and experienced engineers. Our architectural and structural engineers collaborate to develop integrated design models for all trades. We offer construction documentation for architectural design, structural engineering. We take up the responsibility of creating detailed drawings and examining the project's feasibility. Documentation is a key means for educating people who need an overview. Our team will apply knowledge of architectural design, construction detailing, construction procedures, building codes and building materials in the stage of documentation. We will also consult with clients to determine their requirements. </p>
                         <p>Architectural construction documentation consists of different drawings such as site plan, floor plan, roof plan, elevation drawings, section drawings, block plan, etc. We ensure that the construction drawings we produce give a clear view of the whole building, how it should be constructed and the materials used. We guarantee that you get fast construction documentation services with high quality. </p>
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col-lg-6">
                                 <img src="img/service/31.jpg" alt="image">
                                 <label>Image caption here.</label>
@@ -49,17 +49,9 @@
                             <div class="col-lg-6">
                                 <img src="img/service/32.jpg" alt="image">
                             </div>
-                        </div>
+                        </div> -->
                         
-                        <p></p>
-                        <div class="ltn__service-list-menu text-uppercase mt-50 d-none">
-                            <ul>
-                                <li><i class="fas fa-car"></i> Front Brakes Repair <span class="service-price">$225.95 <span>Plus Parts</span></span> </li>
-                                <li><i class="fas fa-life-ring"></i> Rear Brakes Repair <span class="service-price">$225.95 <span>Plus Parts</span></span> </li>
-                                <li><i class="fas fa-cog"></i> Axle <span class="service-price">$225.95 <span>Plus Parts</span></span> </li>
-                                <li><i class="fas fa-car"></i> Starters / Alternators <span class="service-price">$225.95 <span>Plus Parts</span></span> </li>
-                            </ul>
-                        </div>
+                       
 
                     </div>
                 </div>
@@ -101,7 +93,7 @@
                 <div class="col-lg-12">
                     <div class="ltn__page-details-inner ltn__service-details-inner">
                         <h3>1. Site Plan</h3>
-                        <p> <span class="ltn__first-letter">A</span>site plan is going to show more than just the building, including the entire site the building is located on. This can show the property lines, the building location, utilities, roads, landscape etc. A site plan will most typically be drawn from above the building, as if showing a roof plan of the building within the site plan. Among its wide applications, we can include construction drawings for the improvement of buildings, understanding the scope of construction activities.  </p>
+                        <p> A site plan is going to show more than just the building, including the entire site the building is located on. This can show the property lines, the building location, utilities, roads, landscape etc. A site plan will most typically be drawn from above the building, as if showing a roof plan of the building within the site plan. Among its wide applications, we can include construction drawings for the improvement of buildings, understanding the scope of construction activities.  </p>
                         <h3>2. Floor Plan</h3>
                         <p>A plan drawing shows a view from above. This is often used to describe the layout of a building, showing the location of rooms and windows, walls, doors, stairs, etc. Although plan drawings can be drawn from above, they are often drawn by cutting through the building with a horizontal plane. It helps to get an idea of the use of the limited space in the room. This is an in-depth version of the layout of the room. </p>
                         <div class="row">
@@ -143,41 +135,6 @@
     <!-- PAGE DETAILS AREA END -->
 
     <!-- BRAND LOGO AREA START -->
-    <div class="ltn__brand-logo-area ltn__brand-logo-1 before-bg-bottom">
-        <div class="container">
-            <div class="row ltn__brand-logo-active ltn__secondary-bg ltn__border-radius pt-30 pb-20">
-                <!-- <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/b11.png" alt="Brand Logo">
-                    </div>
-                </div> -->
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/cus1.jpg" alt="Brand Logo">
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/cus2.jpg" alt="Brand Logo">
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/cus3.jpg" alt="Brand Logo">
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/cus4.jpg" alt="Brand Logo">
-                    </div>
-                </div>
-                <!-- <div class="col-lg-12">
-                    <div class="ltn__brand-logo-item">
-                        <img src="img/brand-logo/b13.png" alt="Brand Logo">
-                    </div>
-                </div> -->
-            </div>
-        </div>
-    </div>
+   
     <!-- BRAND LOGO AREA END -->
     <?php include('include/footer.php'); ?>
