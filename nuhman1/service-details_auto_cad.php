@@ -96,7 +96,7 @@
                         <h3>Structural CAD Drafting Services</h3>
                         <p> A structural drawing is a type of technical drawing which is a blueprint or set of plans and details of how a building or other structure will be constructed. Our team provides structural drawings that create blueprints and other technical drawings used to construct buildings and other structures. We create floor plans and detailed drawings of the entire structure. However, the structural designer focuses on the building's support system, or skeleton. This includes things like columns, beams, and foundations that help the building stand and support the finished walls and ceiling. Once your structural design data is received, our structural engineers use special Computer Aided Drafting (CAD) programs to complete these plans much faster. The drawings produced by structural engineers not only show contractors how the building should be constructed, but also play a vital role in the planning and permitting process. </p>
                         <p>Our structural drawings also show the foundation systems and footings used to support the weight of these components. Structural Draftsman incorporates dimensions to help builders install these items correctly, as well as sizes and materials. You can also prepare specifications with additional details on the materials and methods needed to properly erect the building's structural system. </p>
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col-lg-6">
                                 <img src="img/service/31.jpg" alt="image">
                                 <label>Image caption here.</label>
@@ -104,7 +104,7 @@
                             <div class="col-lg-6">
                                 <img src="img/service/32.jpg" alt="image">
                             </div>
-                        </div>
+                        </div> -->
                         
                         <p>Our team specializes in the creation of technical drawings. We create CAD plans for various structures. We take designers ideas, sketches and concepts and turn them into detailed and accurate final plans. Most drafters specialize in creating particular diagrams or plans, such as designs for houses, buildings, bridges, industrial equipment, etc. Our skilled draftsmen use virtual drawing tools to create perfect geometric shapes and two-dimensional curves. We make advanced CAD applications that allow individuals to make three-dimensional representations and view a drawing from multiple angles. CAD programs can also be used to simulate real-world conditions so engineers and draftsmen can predict the structural soundness of a proposed design.</p>
                         
