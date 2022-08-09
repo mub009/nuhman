@@ -244,7 +244,7 @@
                                         </li>
                                         <li class="menu-icon"><a href="carrer.php">Career</a>
                                         </li> -->
-                                        <li><a href="contact.php">Contact us</a></li>
+                                        <li><a href="contact_us.php">Contact us</a></li>
                                     </ul>
             </div>
             <!-- <div class="ltn__utilize-buttons ltn__utilize-buttons-2">
