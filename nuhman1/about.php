@@ -57,34 +57,35 @@
                                 <li>About Us</li>
                             </ul>
                         </div>
-                        <h1 class="page-title">About Us</h1>
+                        <h1 class="page-title text-center" style="color:#0740a1">About Us</h1>
                     </div>
             <div class="row">
                 
-                <div class="col-lg-8 align-self-center">
+            <!-- <div class="col-lg-8 align-self-center"> -->
+                <div class="col-lg-8"><br>
                     <div class="about-us-info-wrap">
-                        <div class="section-title-area ltn__section-title-2">
+                        <!-- <div class="section-title-area ltn__section-title-2"> -->
                             <!-- <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span>   </h6> -->
-                            <h1 class="section-title"></h1>
-                            <p>BIM Mark is an Engineering service providing company primarily focusing on Architectural and Structural drawings. We offers Building Information Modeling (BIM) and CAD services for various Architecture, Engineering & Construction (AEC) firms globally. Our Team has around 20+ members which includes architects, engineers, interior designers, and CAD technicians. 
+                            <!-- <h1 class="section-title"></h1> -->
+                            <p style="text-align: justify;">BIM Mark is an Engineering service providing company primarily focusing on Architectural and Structural drawings. We offers Building Information Modeling (BIM) and CAD services for various Architecture, Engineering & Construction (AEC) firms globally. Our Team has around 20+ members which includes architects, engineers, interior designers, and CAD technicians. 
                             </p>
-                        </div>
-                        <p>We use the latest technologies and methods available in the AEC industry so that our clients can always get the maximum return on their investment. Our extensive quality control process ensures that our final drawings are accurate and clash free. 
+                        <!-- </div> -->
+                        <p style="text-align: justify;">We use the latest technologies and methods available in the AEC industry so that our clients can always get the maximum return on their investment. Our extensive quality control process ensures that our final drawings are accurate and clash free. 
                             We deliver high-quality architectural and structural BIM projects from LOD 100 to LOD 500.  </p>
-                        <p>Our expert team of architects and engineers can help you design and model complex projects in a timely manner. We have been strategizing and developing the implementation of versatile BIM Outsourcing services to our global clients. We provides complete Architectural BIM Services for the UK Architectural firms.
+                        <p style="text-align: justify;">Our expert team of architects and engineers can help you design and model complex projects in a timely manner. We have been strategizing and developing the implementation of versatile BIM Outsourcing services to our global clients. We provides complete Architectural BIM Services for the UK Architectural firms.
                              Our team has in depth knowledge of managing international projects of Architectural, Structural drafting, and BIM services.
                         </p>
                         
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4"><br>
                  
 
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2">
                             <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> OUR MISSION</h6>
                             <h1 class="section-title"></h1>
-                            <p>“Our mission is to provide quality engineering services at low cost by using latest and smart techniques in AEC industry”
+                            <p style="text-align: justify;">“Our mission is to provide quality engineering services at low cost by using latest and smart techniques in AEC industry”
                             </p>
                         </div>            
                     </div>
@@ -93,7 +94,7 @@
                         <div class="section-title-area ltn__section-title-2">
                             <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> OUR VISION</h6>
                             <h1 class="section-title"></h1>
-                            <p>“To become a leading quality service providing company in the global AEC industry.”
+                            <p style="text-align: justify;">“To become a leading quality service providing company in the global AEC industry.”
                             </p>
                         </div>            
                     </div>
@@ -102,14 +103,23 @@
                         <div class="section-title-area ltn__section-title-2">
                             <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> OUR VALUES</h6>
                             <h1 class="section-title"></h1>
-                            <ul>
-                                <li>Excellence</li>
-                                <li>Teamwork</li>
-                                <li>Transparency</li>
-                                <li>Collaborative</li>
-                                <li>Commitment</li>
-                                <li>Integrity</li>
-                            </ul>   
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <ul>
+                                        <li>Excellence</li>
+                                        <li>Teamwork</li>
+                                        <li>Transparency</li>
+                                    </ul>  
+                                </div>
+                                <div class="col-lg-6">
+                                    <ul>
+                                        <li>Collaborative</li>
+                                        <li>Commitment</li>
+                                        <li>Integrity</li>
+                                    </ul>  
+                                </div>
+                            </div>
+                           
                         </div>            
                     </div>
                 </div>
@@ -122,7 +132,7 @@
                     <div class="about-us-info-wrap">
                         <div class="ltn__page-details-inner ltn__portfolio-details-inner">
                             <!-- <h6 class="section-subtitle ltn__secondary-color"><span><i class="fas fa-square-full"></i></span> Why BIMARK </h6> -->
-                            <h1 class="page-title">Why BIMARK</h1>
+                            <h1 class="page-title text-center" style="color:#0740a1">Why BIMARK</h1>
                             
                         </div>     
                         
@@ -131,7 +141,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="row">
+            <div class="row" style="text-align: justify;">
                 <div class="col-lg-8  align-self-center">
                 <p>We are better equipped to analyze and understand the effective use of available resources. 
                     Through our adherence to a quality management system, we demonstrate our commitment to quality and excellence to our customers. 
